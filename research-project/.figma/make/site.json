@@ -1,0 +1,10 @@
+{
+  "description": "Delivers an interactive, scientifically accurate scrolling experience showcasing detailed neuronal projection research to engage and educate viewers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
